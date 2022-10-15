@@ -141,7 +141,7 @@ function crearMensaje(resultado)
     sectionMensajes.appendChild(parrafo)
 }
 
-unction crearMensajeFinal(resultadoFinal)
+function crearMensajeFinal(resultadoFinal)
 {
     let sectionMensajesFinal = document.getElementById("mensajes")
     
