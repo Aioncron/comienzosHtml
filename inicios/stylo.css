@@ -27,14 +27,23 @@ body{
 
 .targeta-de-mokepon{
 
-    width: 100px;
+    width: 204px;
     height: 100px;
-    background: aqua;
+    background: #11468f;
     padding: 10px;
     box-sizing: border-box;
     margin: 10px;
     border: 1px solid hotpink;
     border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.targeta-de-mokepon img{
+    width: 80px;
+
 }
 input{
     display: none;
