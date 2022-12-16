@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+body{
+    font-family: 'Titan One', cursive;
+    background-color: #00005C;
+}
+
+#seleccionar-mascota{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.titulo {
+    color: white;
+    font-size: 58px;
+    
+}
+.subtitulo{
+    color: white;
+    font-size: 36px;
+}
+
+.tarjetas{
+    display: flex;
+    gap: 10px;
+}
+
+.targeta-de-mokepon{
+
+    width: 100px;
+    height: 100px;
+    background: aqua;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 10px;
+    border: 1px solid hotpink;
+    border-radius: 20px;
+}
+input{
+    display: none;
+
+}
