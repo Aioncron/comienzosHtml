@@ -8,6 +8,7 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "PROYECTOS HTML"
+		"liveServer.settings.multiRootWorkspaceName": "PROYECTOS HTML",
+		"editor.guides.bracketPairs": true
 	}
 }

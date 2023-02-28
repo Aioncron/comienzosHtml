@@ -170,11 +170,7 @@ function crearMensajeFinal(resultadoFinal)
 {
     let sectionMensajes = document.getElementById("resultado")
     
-    
-    let parrafo = document.createElement( "p" )
-    parrafo.innerHTML = resultadoFinal
-
-    sectionMensajes.appendChild( parrafo )
+    sectionMensajes.innerHTML = resultadoFinal
     
     let botonFuego = document.getElementById( "boton-fuego" )
     botonFuego.disabled= true
