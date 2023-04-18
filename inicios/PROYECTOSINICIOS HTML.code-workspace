@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Proyecto Java"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "comienzosHtml-main",
+		"editor.guides.bracketPairs": true
+	}
+}
